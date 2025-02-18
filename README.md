@@ -6,6 +6,6 @@ I’m a nutritionist pursuing my Master’s in Digital Health at Reykjavik Unive
 
 ✨ UX/UI & User Research Projects You’ll Find Here<br> 📌 [Blood Bank app prototype](https://www.figma.com/design/q1Gul8XJLd2oy42B2QUqZK/BloodBankApp?node-id=0-1&t=yV4QsYnynGBj4XnR-1)<br> 📌 [Diabetes management app prototype](https://www.figma.com/design/0rT0Q4KbmOlcrQXKnbL1QD/WellnesGuard?t=gtXvwNwDcLMQEUED-1)<br> 📌 [Bónus app prototype](https://www.figma.com/design/a5NpMtxIUQ7GhVbzShVhfH/SPM?node-id=0-1&t=20z7BtlotMtcVh8d-1)<br>
 
-📊 Data & Research and 📈Statistical modelling & computation Project´s you will find here.<br>  📌[Experiment design and High dimensional data](https://github.com/LuisMHPerez/Portfolio/blob/main/TimeSeries.ipynb)<br> 📌Network data<br> 📌Time series data<br>
+📊 Data & Research and 📈Statistical modelling & computation Project´s you will find here.<br>  📌[Experiment design and High dimensional data]<br> 📌Network data<br> 📌[Time series data](https://github.com/LuisMHPerez/Portfolio/blob/main/TimeSeries.ipynb)<br>
 
 If you're into UX research, digital health or need an amazing reinforcement for your team, let’s chat!😎<br> 📧 lm.hdzprz@gmail.com
